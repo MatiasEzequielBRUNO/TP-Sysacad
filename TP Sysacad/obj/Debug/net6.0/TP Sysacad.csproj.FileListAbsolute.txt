@@ -1,0 +1,19 @@
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\bin\Debug\net6.0\TP Sysacad.exe
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\bin\Debug\net6.0\TP Sysacad.deps.json
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\bin\Debug\net6.0\TP Sysacad.runtimeconfig.json
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\bin\Debug\net6.0\TP Sysacad.dll
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\bin\Debug\net6.0\TP Sysacad.pdb
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\obj\Debug\net6.0\TP Sysacad.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\obj\Debug\net6.0\TP Sysacad.AssemblyInfoInputs.cache
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\obj\Debug\net6.0\TP Sysacad.AssemblyInfo.cs
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\obj\Debug\net6.0\TP Sysacad.csproj.CoreCompileInputs.cache
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\obj\Debug\net6.0\TP Sysacad.dll
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\obj\Debug\net6.0\refint\TP Sysacad.dll
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\obj\Debug\net6.0\TP Sysacad.pdb
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\obj\Debug\net6.0\TP Sysacad.genruntimeconfig.cache
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\obj\Debug\net6.0\ref\TP Sysacad.dll
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\bin\Debug\net6.0\ClassLibrary1.dll
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\bin\Debug\net6.0\ClassLibrary1.pdb
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\obj\Debug\net6.0\TP Sysacad.csproj.AssemblyReference.cache
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\TP Sysacad\obj\Debug\net6.0\TP Sysacad.csproj.CopyComplete

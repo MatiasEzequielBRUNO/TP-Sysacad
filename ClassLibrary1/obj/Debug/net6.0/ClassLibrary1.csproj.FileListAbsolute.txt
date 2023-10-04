@@ -1,0 +1,12 @@
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+E:\OneDrive\programacion\facultad\2 cuatrimestre\TP\TP Sysacad\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
